@@ -1,0 +1,1 @@
+It was an easy task since every step was nicely explained but i still managed to have an error. . . I forgot to install git and didn't get a clean pacifist walkthrough but am still happy to get my first task done :)
