@@ -7,12 +7,12 @@
 [Task-01]()|Staring amFOSS repositories|Completed
 [Task-02]()|Terminal Hunt|Completed
 [Task-03]()|Programming|Done Six Questions
-[Task-04]()|Cinebot|Completed
-[Task-05]()|Find The Bug|Not Attempted till yet
+[Task-04]()|Cinebot|Completed(csv file left)
+[Task-05]()|Find The Bug|Halway
 [Task-06]()|Flame Game|Incomplete
 [Task-07]()|Go WASM|Incomplete
-[Task-08]()|Internet Explorer|Not Attempted till yet
-[Task-09]()|Krypto Scrapper|Completed
+[Task-08]()|Internet Explorer|Complete
+[Task-09]()|Krypto Scrapper|Completed(csv file left)
 [Task-10]()|CS50|Not Attempted till yet
 [Task-11]()|Figma Ninja|Not Attempted till yet
 [Task-12]()|Bunny Heist|Not Attempted till yet
