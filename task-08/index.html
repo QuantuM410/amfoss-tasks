@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <link rel="stylesheetcss" href="styles.css">
+</head>
+<script src="index.js"></script>
+<head>
+  <meta charset="utf-8">
+  <title>Drum Kit</title>
+</head>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+<style>
+body {
+  font-family: "Sofia", sans-serif; background-color:burlywood;
+}
+</style>
+
+<body>
+
+  <h1 id="title"><center>Drum 🥁 Kit</center></h1>
+  <div class="set">
+    <script>
+      function play() {
+        var audio = document.getElementById("audio");
+        audio.play();
+      }
+    </script>
+    <style>
+      
+      .w {background-color: aqua; border-radius: 12px; border-radius: 12px;   box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3); font-family: Sofia; height:40px; width: 40px; position: relative; top:50%; left:40%; font-size: larger;}
+      .a {background-color: rgb(56, 123, 201); border-radius: 12px;   box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3); font-family: Sofia; height:40px; width: 40px; position: relative; top:50%; left:41%; font-size: larger;}
+      .s {background-color: rgb(226, 119, 185); border-radius: 12px; border-radius: 12px;   box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3); font-family: Sofia; height:40px; width: 40px; position: relative; top:50%; left:42%; font-size: larger;}
+      .d {background-color: rgb(204, 224, 17); border-radius: 12px; border-radius: 12px;   box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3); font-family: Sofia; height:40px; width: 40px; position: relative; top:50%; left:43%; font-size: larger;}
+      .j {background-color: rgb(25, 202, 78); border-radius: 8px; border-radius: 12px;   box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3); font-family: Sofia; height:40px; width: 40px; position: relative; top:50%; left:44%; font-size: larger;}
+      .k {background-color: rgb(87, 63, 221); border-radius: 12px; border-radius: 12px;   box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3); font-family: Sofia; height:40px; width: 40px; position: relative; top:50%; left:45%; font-size: larger;}
+      .l {background-color: rgb(204, 214, 60); border-radius: 12px; border-radius: 12px;   box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3); font-family: Sofia; height:40px; width: 40px; position: relative; top:50%; left:46%; font-size: larger;}
+
+    </style>
+    <button class="w drum" onclick="play()">w</button>
+    <audio id="audio" src="/sounds/crash.mp3"></audio>
+       
+    <script>
+      function play1() {
+        var audio = document.getElementById("audio1");
+        audio.play();
+      }
+    </script>
+    <button class="a drum" onclick="play1() ">a</button>
+    <audio id="audio1" src="/sounds/kick-bass.mp3"></audio>
+
+    <script>
+      function play2() {
+        var audio = document.getElementById("audio2");
+        audio.play();
+      }
+    </script>
+    <button class="s drum" onclick="play2()">s</button>
+    <audio id="audio2" src="/sounds/snare.mp3"></audio>
+    
+    <script>
+      function play3() {
+        var audio = document.getElementById("audio3");
+        audio.play();
+      }
+    </script>
+    <button class="d drum" onclick="play3()">d</button>
+    <audio id="audio3" src="/sounds/tom-1.mp3"></audio>
+
+    <script>
+      function play4() {
+        var audio = document.getElementById("audio4");
+        audio.play();
+      }
+    </script>
+    <button class="j drum" onclick="play4()">j</button>
+    <audio id="audio4" src="/sounds/tom-2.mp3"></audio>
+
+    <script>
+      function play5() {
+        var audio = document.getElementById("audio5");
+        audio.play();
+      }
+    </script>
+    <button class="k drum" onclick="play5()">k</button>
+    <audio id="audio5" src="/sounds/tom-3.mp3"></audio>
+
+    <script>
+      function play6() {
+        var audio = document.getElementById("audio6");
+        audio.play();
+      }
+    </script>
+    <button class="l drum" onclick="play6()">l</button>
+    <audio id="audio6" src="/sounds/tom-4.mp3"></audio>
+
+  </div>
+
+  
+</body>
+
+</html>
