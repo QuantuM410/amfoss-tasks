@@ -38,8 +38,8 @@ def getMovie(message):
     info=requests.get(api_url)
     info=info.json()
     bot.reply_to(message, 'Title : {} \nYear of Release : {} \nIMDB Ratings : {}'.format(info['Title'], info['Year'], info['imdbRating']))
-    img= open('http://img.omdbapi.com/?apikey=3c02b14d&')
-    bot.send_photo(message, img)
+    imglink= '{}'.format(info['Poster'])
+    bot.send_photo(message, imglink)
     # TODO: 1.2 Get movie information from the API
     # TODO: 1.3 Show the movie information in the chat window
     # TODO: 2.1 Create a CSV file and dump the movie information in it
