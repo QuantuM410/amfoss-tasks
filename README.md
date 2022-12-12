@@ -9,7 +9,7 @@ Task-00|Installing Ubuntu|Completed
 [Task-03]()|Programming|Done Six Questions
 [Task-04]()|Cinebot|Completed(csv file left)
 [Task-05]()|Find The Bug|Halway
-[Task-06]()|Flame Game|Incomplete
+[Task-06]()|Flame Game|Installed flutter (half done)
 [Task-07]()|Go WASM|Incomplete
 [Task-08]()|Internet Explorer|Complete
 [Task-09]()|Krypto Scrapper|Completed(csv file left)
