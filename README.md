@@ -19,3 +19,8 @@ Task-00|Installing Ubuntu|Completed
 [Task-13]()|Footfall Counter|Not Attempted till yet
 [Task-14]()|Bandit|Completed
 [Task-15]()|Project Euler|Incomplete
+## What I thought about the given tasks?
+
+
+
+## My Introduction
