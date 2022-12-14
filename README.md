@@ -3,7 +3,7 @@
 **I am Kartikey Singh from Dehradun Uttarakhand,fresher at Amrita School of Engineering(EAC 2022)**
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
-Task-00|Installing Ubuntu|Completed
+[Task-00](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-00)|Installing Ubuntu|Completed
 [Task-01](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-01)|Staring amFOSS repositories|Completed
 [Task-02](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-02)|Terminal Hunt|Completed
 [Task-03](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-03)|Programming|Done Six Questions
