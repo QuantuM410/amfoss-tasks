@@ -17,7 +17,7 @@
 [Task-14](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-14)|![](images/bandit)|Completed
 [Task-15](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-15)|![](images/euler)|Completed(5th left)
 ## What I thought about the given tasks?
-
+The tasks were very varied and distinct to each other. Each task demanded different kind of skill and had a different approach. The tasks helped me get an insight on different field of programming such as Web dev, Game dev etc. I personally found that the tasks were very perfect for someone like me to help me introduce to domains of coding and programming. I avoided reading documentations till now as they seemed overboarding but these tasks me go through documentations and ngl it felt like I was missing out on a whole lot of information. It also made me eager to do more projects and coding ASAP.
 
 
 ## My Introduction
