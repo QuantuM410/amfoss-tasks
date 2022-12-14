@@ -9,7 +9,7 @@
 [Task-03](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-03)|![](images/programming)|Done Six Questions
 [Task-04](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-04)|![](images/cinebot)|Completed(csv file left)
 [Task-05](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-05)|![](images/findthebug)|Completed
-[Task-06](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-06)|![](images/flamegame)Installed flutter (learnt about components)
+[Task-06](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-06)|![](images/flamegame)|Installed flutter (learnt about components)
 [Task-07](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-07)|![](images/gowasm)|Completed
 [Task-08](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-08)|![](images/internetexplorer)|Completed
 [Task-09](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-09)|![](images/krpto)|Completed(csv file left)
