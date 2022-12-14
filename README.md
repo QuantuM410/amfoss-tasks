@@ -3,22 +3,19 @@
 **I am Kartikey Singh from Dehradun Uttarakhand,fresher at Amrita School of Engineering(EAC 2022)**
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
-[Task-00](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-00)|Installing Ubuntu|Completed
-[Task-01](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-01)|Staring amFOSS repositories|Completed
-[Task-02](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-02)|Terminal Hunt|Completed
-[Task-03](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-03)|Programming|Done Six Questions
-[Task-04](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-04)|Cinebot|Completed(csv file left)
-[Task-05](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-05)|Find The Bug|Completed
-[Task-06](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-06)|Flame Game|Installed flutter (learnt about components)
-[Task-07](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-07)|Go WASM|Completed
-[Task-08](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-08)|Internet Explorer|Completed
-[Task-09](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-09)|Krypto Scrapper|Completed(csv file left)
-[Task-10]()|CS50|Not Attempted till yet
-[Task-11]()|Figma Ninja|Not Attempted till yet
-[Task-12]()|Bunny Heist|Not Attempted till yet
-[Task-13]()|Footfall Counter|Not Attempted till yet
-[Task-14](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-14)|Bandit|Completed
-[Task-15](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-15)|Project Euler|Completed(5th left)
+[Task-00](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-00)|![](images/Installing_Ubuntu.png)|Completed
+[Task-01](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-01)|![](images/staring)|Completed
+[Task-02](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-02)|![](images/terminalhunt)|Completed
+[Task-03](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-03)|![](images/programming)|Done Six Questions
+[Task-04](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-04)|![](images/cinebot)|Completed(csv file left)
+[Task-05](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-05)|![](images/findthebug)|Completed
+[Task-06](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-06)|![](images/flamegame)Installed flutter (learnt about components)
+[Task-07](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-07)|![](images/gowasm)|Completed
+[Task-08](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-08)|![](images/internetexplorer)|Completed
+[Task-09](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-09)|![](images/krpto)|Completed(csv file left)
+[Task-10](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-10)|![](images/cs50)|Not Attempted till yet
+[Task-14](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-14)|![](images/bandit)|Completed
+[Task-15](https://github.com/QuantuM410/amfoss-tasks/tree/main/task-15)|![](images/euler)|Completed(5th left)
 ## What I thought about the given tasks?
 
 
