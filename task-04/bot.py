@@ -53,7 +53,7 @@ def getList(message):
     info=requests.get(api_url)
     info=info.json()
     fields=['Title', 'Year of Release', 'IMDB Ratings']
-    data=['interstellar', '2014', '8.4']
+    data=[info['Title'], info['Year'], info['imdbRating']]
     with open('cinecsv', 'w') as cine_csv:
         writer=csv.writer(cine_csv)
         writer.writerow(fields)
